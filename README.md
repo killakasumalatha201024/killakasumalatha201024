@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Killaka Sumalatha</h1>
-<h3 align="center">A passionate Data Analyst | SQL | Excel | Power BI | Python from India</h3>
+<h3 align="center">Data Analyst|SQL|Power BI|Python Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killakasumalatha201024&label=Profile%20views&color=0e75b6&style=flat" alt="killakasumalatha201024" /> </p>
 <p align="left">
