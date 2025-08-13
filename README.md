@@ -17,11 +17,7 @@
   </a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killakasumalatha201024" alt="killakasumalatha201024" /></a> </p>
-<p align="left">
-  <a href="https://wa.me/7842186033" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp" alt="WhatsApp Chat" />
-  </a>
-</p>
+
 - 🔭 I’m currently working on [Customer Credit and Repayment Analytics for BFSI Sector](https://colab.research.google.com/drive/1GtpHZd2SMC3lXV029piI-uF1b6UhBP2q?usp=sharing)
 
 - 🌱 I’m currently learning **how to clean datasets in Colab**
