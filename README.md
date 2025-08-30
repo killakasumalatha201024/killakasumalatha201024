@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killakasumalatha201024&label=Profile%20views&color=0e75b6&style=flat" alt="killakasumalatha201024" /> </p>
 <p align="left">
+  <a href="https://app.powerbi.com/home?experience=power-bi">
+    <img src="https://img.shields.io/badge/Power%20BI-Profile-yellow?logo=powerbi" alt="Power BI Profile" />
+  </a>
+</p>
+
+<p align="left">
   <a href="https://public.tableau.com/app/profile/killaka.sumalatha/vizzes">
     <img src="https://img.shields.io/badge/Tableau-Profile-blue?logo=tableau" alt="Tableau Public Profile" />
   </a>
