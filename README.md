@@ -3,8 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killakasumalatha201024&label=Profile%20views&color=0e75b6&style=flat" alt="killakasumalatha201024" /> </p>
 <p align="left">
+  <a href="https://killakasumalatha.portfoliobox.net">
+    <img src="https://img.shields.io/badge/Portfolio-Sumalatha's%20Portfolio-blue?logo=html5" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="left">
   <a href="https://app.powerbi.com/home?experience=power-bi">
-    <img src="https://img.shields.io/badge/Power%20BI-Profile-yellow?logo=powerbi" alt="Power BI Profile" />
+    <img src="https://img.shields.io/badge/Power%20BI-Profile-blue?logo=powerbi" alt="Power BI Profile" />
   </a>
 </p>
 
